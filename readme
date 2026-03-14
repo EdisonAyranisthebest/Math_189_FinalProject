@@ -1,0 +1,12 @@
+## Data Files
+
+### Included in Repo
+- `full_data.csv` - Academy Awards data
+- `the_oscar_award.csv` - Alternative Oscar data format
+- `title.ratings.tsv.gz` - IMDb ratings file
+
+### Download Separately
+- `title.basics.tsv.gz` - Download from IMDb: https://datasets.imdbws.com/
+  - Contains genre information needed for the analysis
+  - Too large for GitHub
+  - Place it in the project root directory after cloning
